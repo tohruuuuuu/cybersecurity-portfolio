@@ -3,7 +3,7 @@
 **Role:** SOC Analyst (lab exercise)
 **Tools:** Linux CLI — `grep`, `awk`, `sed`, `sort`, `uniq`, `cut`
 
-> ⚠️ Lab project. The log data is **simulated** for training purposes only.
+>  Lab project. The log data is **simulated** for training purposes only.
 
 ## Scenario
 The server `web-prod-01` showed suspicious mid-morning activity. I analyzed its
